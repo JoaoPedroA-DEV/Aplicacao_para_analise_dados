@@ -1,0 +1,9 @@
+# Ambientes virtuais
+.venv/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos específicos do projeto
+criar_dados.py
